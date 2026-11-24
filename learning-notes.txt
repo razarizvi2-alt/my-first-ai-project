@@ -1,1 +1,9 @@
-Add my AI learning notes
+My AI Learning Journey
+
+Lesson 1: Created GitHub account.
+
+Lesson 2: Learned README and commits.
+
+Lesson 3: Learning file management.
+
+My Goal: Become an AI developer.
